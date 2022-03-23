@@ -1,0 +1,5 @@
+name: SkeletonsRandomArrow
+version: '${project.version}'
+main: org.liamondeid.skeletonsrandomarrow.SkeletonsRandomArrow
+api-version: 1.18
+authors: [ LiamonDeid_ ]
